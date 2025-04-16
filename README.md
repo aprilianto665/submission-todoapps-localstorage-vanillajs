@@ -3,6 +3,9 @@ Aplikasi To-Do sederhana berbasis web yang dibuat menggunakan JavaScript murni d
 
 Proyek ini merupakan bagian dari submission kelas Belajar Membuat Front-End Web untuk Pemula di platform Dicoding.
 
+# 📸 Tampilan Aplikasi
+![image](https://github.com/user-attachments/assets/0b5d3539-dfae-47c5-9128-e935160d1094)
+
 # ✨ Fitur Aplikasi
 Aplikasi ini memungkinkan pengguna untuk:
 
@@ -32,5 +35,5 @@ Aplikasi ini memungkinkan pengguna untuk:
 
 📅 Tahun: 2025
 
-📄 License
+# 📄 License
 Proyek ini dibuat untuk tujuan pembelajaran dan tidak memiliki lisensi khusus. Silakan gunakan atau kembangkan sesuai kebutuhanmu.
